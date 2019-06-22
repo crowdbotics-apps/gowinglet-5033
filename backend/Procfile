@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT gowinglet_5033.wsgi:application
